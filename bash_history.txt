@@ -1,0 +1,192 @@
+ll
+ls -la
+nano detector.py
+ls -la
+python version
+python
+sudo python detector.py
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get dist-upgrade
+sudu restart
+sudo restart
+sudo reboot
+ls -la
+python
+python3
+sudo python detector.py
+git
+sudo apt-get install git
+git version
+git status
+pip
+sudo apt-get install python-pip
+pip freeze
+pip freeze | grep RPI
+sudo apt-get install python-dev python-rpi.gpio
+sudo apt-get install python-dev
+pip install RPi.GPIO
+pip freeze | grep RPI
+sudo apt-get install python-setuptools
+pip install RPi.GPIO
+Failed building wheel for RPi.GPIO
+sudo pip install RPi.GPIO
+pip install wheel
+sudo pip install RPi.GPIO
+pip install RPi.GPIO
+sudo apt-get install gcc
+pip install RPi.GPIO
+sudo python detector.py
+pip freeze | grep RPI
+sudo pip install RPi.GPIO
+sudo python detector.py
+nano detector.py
+sudo python detector.py
+nano detector.py
+/opt/vc/bin/vcgencmd measure_temp
+sudo apt-get install a2dp-app-osmc
+/opt/vc/bin/vcgencmd measure_temp
+sudo shutdown
+sudo shutdown -c
+sudo python detector.py
+sudo python detector.py &
+/opt/vc/bin/vcgencmd measure_temp
+ls -la
+cd .kodi/
+ls -la
+cd userdata/
+ls -la
+nano advancedsettings.xml
+ls -la
+/opt/vc/bin/vcgencmd measure_temp
+cd..
+ls -la
+cd ..
+ls -al
+nano fanControl.py
+python fanControl.py
+osmc
+python fanControl.py
+ps -ef
+ps -ef | grep python
+ps -ef | grep fan
+ll
+ls -la
+cp detector.py fanControl.py
+nano fanControl.py
+sudo python
+nano fanControl.py
+python fanControl.py
+nano fanControl.py
+sudo python fanControl.py
+nano fanControl.py
+sudo python fanControl.py
+sudo python fanControl.py &
+ll
+ls -la
+nano fanControl.py
+sudo python fanControl.py
+nano fanControl.py
+sudo python fanControl.py
+nano fanControl.py
+sudo python fanControl.py
+nano fanControl.py
+sudo python fanControl.py
+nano fanControl.py
+sudo python fanControl.py
+nano fanControl.py
+sudo python fanControl.py
+nano fanControl.py
+sudo python fanControl.py
+sudo python fanControl.py &
+nano fanControl.py
+sudo python fanControl.py &
+GPIO.setmode((GPIO.BOARD)ps -ef | grep python
+GPIO.setmode((GPIO.BOARD)ps -ef
+ps -ef
+ps -ef | grep python
+kill 7813
+sudo kill 7813
+ps -ef | grep python
+kill 8054
+sudo kill 8054
+kill 7271
+ps -ef | grep python
+nano detector.py
+sudo python
+nano detector.py
+ps -ef | grep python
+nano fanControl.py
+sudo python fanControl.py
+nano fanControl.py
+sudo python fanControl.py
+sudo python fanControl.py &
+python
+sudo python fanControl.py &
+nano fanControl.py
+nano detector.py
+ps -ef | grep python
+sudo kill 10255
+ps -ef | grep python
+sudo kill 32247
+ps -ef | grep python
+/opt/vc/bin/vcgencmd measure_temp
+ps -ef | grep python
+nano fanControl.py
+ps -ef | grep python
+kill 32322
+sudo kill 32322
+ps -ef | grep python
+sudo python fanControl.py &
+ps -ef | grep python
+sudo kill 13422
+ps -ef | grep python
+sudo kill 565
+ps -ef | grep python
+sudo python detector.py > /dev/null
+sudo python detector.py > /dev/null &
+nano fanControl.py
+sudo python fanControl.py
+nano fanControl.py
+sudo python fanControl.py
+sudo python fanControl.py &
+ps -ef | grep python
+/opt/vc/bin/vcgencmd measure_temp
+top
+/opt/vc/bin/vcgencmd measure_temp
+sudo python fanControl.py &
+sudo python detector.py &nControl.py &
+ps -ef ! grep python
+ps -ef | grep python
+kill 22926
+sudo kill 22926
+ps -ef | grep python
+/opt/vc/bin/vcgencmd measure_temp
+nano fanControl.py
+/opt/vc/bin/vcgencmd measure_temp
+ps -ef | grep fan
+ps -ef | grep python
+sudo python fanControl.py &
+ps -ef | grep python
+/opt/vc/bin/vcgencmd measure_temp
+ping 194.90.1.5
+/opt/vc/bin/vcgencmd measure_temp
+ps -ef | grep python
+sudo python fanControl.py &
+ps -ef | grep python
+/opt/vc/bin/vcgencmd measure_temp
+sudo python
+ps -ef | grep python
+ll
+ls -la
+sudo python detector.py &nControl.py &
+ps -ef | grep python
+/opt/vc/bin/vcgencmd measure_temp
+ps -ef | grep python
+sudo python detector.py & Control.py &
+ps -ef | grep python
+ls
+sudo python fancontrol.py &
+ls
+sudo python fanControl.py &
+sudo python detector.py
